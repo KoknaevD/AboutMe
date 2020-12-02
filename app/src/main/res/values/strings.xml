@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">About me</string>
+    <string name="name">Dima K</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Android leads the market of mobile operating systems, with over 75% of the
+        global market share. \n\nThe Android Developer with Kotlin Nanodegree program will teach you
+        how to develop cutting-edge apps on the world\'s most popular mobile platform. Kotlin has
+        become the fastest-growing programming language, according to GitHub, and is used by over
+        60% of professional Android developers due to its ability to increase productivity,
+        developer happiness, and code safety. Companies like Google, Square, Pinterest,
+        CapitalOne, and Atlassian are already using Kotlin in their apps. Android app development
+        has become increasingly Kotlin-first, so this is an opportune time to learn Kotlin.
+        \nIf you are a programmer who is interested in mastering the Android platform and building
+        top-rated Android apps in Kotlin, this is the program for you.
+        If you are not ready for this intermediate-level program, or if you are new to programming,
+        please check out our Android Basics Nanodegree program.
+    </string>
+    <string name="WhatNickname">What is your nickname</string>
+    <string name="done">Done</string>
 </resources>

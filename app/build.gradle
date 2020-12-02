@@ -3,6 +3,11 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
 android {
+
+    buildFeatures {
+        dataBinding true
+    }
+
     compileSdkVersion 30
     buildToolsVersion "30.0.0"
 
